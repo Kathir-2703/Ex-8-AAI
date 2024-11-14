@@ -1,7 +1,7 @@
- <H3>ENTER YOUR NAME</H3>tamizh selvan
-<H3>ENTER YOUR REGISTER NO.</H3>212222230158
+ <H3>NAME</H3>Kathir VS
+<H3>REGISTER NO.</H3>212221040075
 <H3>EX. NO.8</H3>
-<H3>DATE:</H3>
+<H3>DATE: 04/10/2024</H3>
 <H1 ALIGN =CENTER>Implementation of Speech Recognition</H1>
 <H3>Aim:</H3> 
  To implement the conversion of live speech to text.<BR>
